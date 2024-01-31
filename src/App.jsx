@@ -15,7 +15,7 @@ function App() {
        <About/>
        <Reviews/>
        <Contact/>
-       <FindMe/>
+       {/* <FindMe/> */}
        <Certifications/>
        <Footer/>
     </div>
